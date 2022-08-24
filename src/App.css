@@ -1,0 +1,22 @@
+/* Global properties start */
+
+* {
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+}
+
+body {
+  margin: 0px;
+}
+
+/* Global properties end */
+
+/* Utility classes start */
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Utility classes end */
